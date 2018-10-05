@@ -1,0 +1,40 @@
+body {
+	background: #F7EDEB;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	padding: 25px 200px 50px 200px;
+}
+
+h1 {padding: 15px;
+	color: #99B8E6;
+}
+
+h2 {
+	font-weight: bold;
+}
+img{
+	border: 1px solid #0292C4;
+}
+
+.bio{
+	font-size: 18px;
+	font-style: italic;
+}
+
+.avatar{
+	width: 205px;
+}
+
+.network{
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.network:hover{
+	color: #99B8E6;
+}
+
+h3{
+	font-size: 20px;
+}
